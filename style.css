@@ -1,0 +1,95 @@
+.advert {
+  color: #FF8929;
+  font-style: italic;
+}
+.codecommand, .codebox code {
+  background-color: #E0E0E0;
+  font-family: monospace;
+}
+.Large {
+  font-size: 1em;
+}
+.blueShaded {
+  background-color: #D6E8F5;
+  font-family: monospace;
+}
+.blueShaded pre:not([class]) {
+    background-color: #D6E8F5;
+}
+
+/* Customisation specific to my website */
+body:before,
+.site-header {
+	background-color: #1e73be;
+  display: none;
+}
+body {
+  background-color: #1e73be;
+  text-align: justify;
+  /*font-family: Calibri, helvetica, sans-serif;*/
+}
+
+    
+.main-container {
+        max-width: 1025px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: white;
+        padding: 1em 30px 15px;
+}
+
+
+.title {
+  font-size: 24px;
+  color: DarkBlue;
+  margin-right: 200px;
+}
+h1 { /* Header 1 */
+  font-size: 22px;
+  color: cerulean;
+}
+h2 { /* Header 2 */
+    font-size: 18px;
+  color: cerulean;
+}
+h3 { /* Header 3 */
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  color: cerulean;
+}
+
+.caption {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+
+.watermark {
+  opacity: 0.2;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  font-size: 500%;
+  color: #00407d;
+}
+
+#images{
+    text-align:center;
+    margin:50px auto; 
+}
+#images a{
+    margin:0px 20px;
+    display:inline-block;
+    text-decoration:none;
+    color:black;
+ }
+
+
+
+
+
+
+
+
+
+
