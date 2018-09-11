@@ -1,0 +1,137 @@
+---
+title: "Electronic Patient Tracking System Data Quality Assessments (ePTS DQA)"
+subtitle: "Report on ePTS DQA conducted in Mozambique with patient receiving HIV treatment"
+author:
+  - affiliation: "PREPARED BY GLOBAL PROGRAMS FOR RESEARCH & TRAINING, UCSF-GP" 
+    name: "Contact: Etelvina Mbalane"
+    email: Etelvina.Mbalane@ucglobalprograms.org 
+date: "`r format(Sys.Date(), '%B, %Y')`"
+output:
+  #bookdown::html_document2:
+  bookdown::html_document2:
+    css: style.css
+    keep_md: yes
+    number_sections: yes
+    self_contained: yes
+    theme: cerulean
+    toc: yes
+    toc_float: true
+    highlight: pygments
+  #html_document:
+  word_document:
+    toc: yes
+documentclass: article
+classoption: a4paper
+bibliography: references.bib
+link-citations: yes
+#output:  Gmisc::docx_document
+---
+<img src="images/logo.png" style="position:absolute;top:0px;right:0px; width:200px;"/>
+<br/>
+
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE }
+knitr::read_chunk("code/setup.R")
+#<img src="images/logo.png" style="position:absolute;top:0px;right:0px; width:200px;"/>
+#<div class="watermark">DRAFT</div>
+#<br/>
+```
+
+```{r setup, echo=FALSE, message=FALSE, warning=FALSE}
+```
+
+```{r loadData}
+```
+
+
+
+```{r child="text/backgroundSection.Rmd"}
+```
+
+```{r child="text/methodologySection.Rmd"}
+```
+
+
+```{r child="text/resultsSection.Rmd"}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

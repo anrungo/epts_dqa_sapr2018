@@ -39,13 +39,13 @@ body {
 }
 
 
-.title {
-  font-size: 24px;
+h1.title {
+  font-size: 25px;
   color: DarkBlue;
   margin-right: 200px;
 }
 h1 { /* Header 1 */
-  font-size: 22px;
+  font-size: 20px;
   color: cerulean;
 }
 h2 { /* Header 2 */
