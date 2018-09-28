@@ -1,10 +1,10 @@
 ---
-title: "Electronic Patient Tracking System Data Quality Assessments (ePTS DQA)"
-subtitle: "Report on ePTS DQA conducted in Mozambique with patient receiving HIV treatment"
+title: "Electronic Patient Tracking System Data Quality Assessments (EPTS DQA)"
+subtitle: "Report on EPTS DQA conducted in Mozambique for patients receiving HIV antiretroviral treatment (ART)"
 author:
   - affiliation: "PREPARED BY GLOBAL PROGRAMS FOR RESEARCH & TRAINING, UCSF-GP" 
-    name: "Contact: Etelvina Mbalane"
-    email: Etelvina.Mbalane@ucglobalprograms.org 
+    name: "Contact: Sophia Zamudio-Haas, DrPH, MSc"
+    email: Sophia.Zamudio-Haas@ucsf.edu  
 date: "`r format(Sys.Date(), '%B, %Y')`"
 output:
   #bookdown::html_document2:
